@@ -1,89 +1,185 @@
 <!-- ======================= HEADER ======================= -->
-
-<h1 align="center">Hi 👋, I'm SWETHA</h1>
-
-<h3 align="center">
-  💻 Aspiring Software Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner
-</h3>
+<h1 align="center">⚡ S W E T H A &nbsp; V ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Software+Developer;Learning+%7C+Building+%7C+Growing;Turning+Ideas+into+Code+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Python+Developer;AI%2FML+Enthusiast;Building+Ideas+Into+Reality+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <b>💡 Think → 💻 Code → 🤖 Innovate → 🚀 Impact</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Building+Real-World+Projects;Learning+%7C+Coding+%7C+Growing+%F0%9F%9A%80" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 👋 Hi, I'm **Swetha**
-- 💻 Passionate about **Software Development**
-- 🌱 Currently improving my programming and development skills
-- 🚀 Interested in building real-world applications
-- 💡 Love learning new technologies
-- 🎯 Goal: Become a skilled and innovative Software Developer
+I'm **Swetha V**, an Information Technology student passionate about
+building practical, scalable, and user-focused applications.
+
+I enjoy working across **Full-Stack Development, Java, Python, and
+Machine Learning**, while continuously exploring new technologies.
+
+- 🎓 B.Tech Information Technology Student
+- 💻 Passionate about Full-Stack Development
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🌱 Currently improving my problem-solving and development skills
+- 🚀 Love turning ideas into real-world applications
+- 🎯 Aspiring Software Developer
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c" />
+<p align="center">
+  <b>💻 Programming Languages</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
 </p>
 
-### 🌐 Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<p align="center">
+  <b>🌐 Full-Stack Development</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,spring" />
 </p>
 
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<p align="center">
+  <b>🗄️ Databases</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🔧 Tools & Technologies
+<p align="center">
+  <b>🤖 AI & Machine Learning</b>
+  <br><br>
+  <code>Python</code>
+  <code>NumPy</code>
+  <code>Pandas</code>
+  <code>Scikit-learn</code>
+  <code>Google Gemini API</code>
+</p>
 
-<p>
+<p align="center">
+  <b>🔧 Tools & Technologies</b>
+  <br><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <br><br>
+  <code>REST APIs</code>
+  <code>JWT</code>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+🔗 [View Project](https://github.com/Swetha-248)
 
-### 📌 Project 1 — Your Project Name
+## 🌐 Volunteer Hub
 
-🔹 Description of your project  
-🔹 Technologies used  
-🔹 What problem it solves  
+A full-stack volunteer management platform designed to simplify
+volunteer registration, event coordination, and secure data management.
 
-**Tech Stack:** `Python` `MySQL`
+**Tech Stack:**
 
----
+`HTML5` `CSS` `JavaScript` `Java` `MongoDB`
 
-### 📌 Project 2 — Your Project Name
+### Highlights
 
-🔹 Description of your project  
-🔹 Main features  
-🔹 What you learned from the project  
+- 👥 Volunteer registration
+- 📅 Event management
+- 🔐 Secure data management
+- 🔗 RESTful backend services
+- 🗄️ MongoDB integration
 
-**Tech Stack:** `HTML` `CSS` `JavaScript`
-
----
-
-### 📌 Project 3 — Your Project Name
-
-🔹 Description of your project  
-🔹 Main functionality  
-🔹 Future improvements  
-
-**Tech Stack:** `Java` `MySQL`
 
 ---
 
-## 📊 GitHub Statistics
+## 🛍️ VisionShop AI
+
+An AI-powered visual product search and recommendation platform
+designed to improve the online shopping experience.
+
+**Tech Stack:**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Google Gemini API`
+
+### Highlights
+
+- 🔎 AI-powered visual product search
+- 🤖 Smart product recommendations
+- 💬 Conversational shopping assistant
+- 🧠 Google Gemini API integration
+- 👤 Personalized shopping experience
+
+---
+
+## 📊 Student Attendance & Result Analyzer
+
+A full-stack student monitoring system designed to manage attendance,
+academic performance, and at-risk student prediction.
+
+**Tech Stack:**
+
+`Spring Boot` `React.js` `MySQL` `JWT` `REST API` `Machine Learning`
+
+### Highlights
+
+- 📋 Student attendance management
+- 📈 Academic performance tracking
+- 🔐 JWT authentication
+- 🔗 REST API integration
+- 🤖 Machine learning based risk prediction
+
+---
+
+# 💼 Internship Experience
+
+### Full Stack Development Intern
+**TECHVOLT Software Pvt. Ltd., Coimbatore**
+
+- Developed frontend and backend components for full-stack web applications
+- Implemented database-driven features
+- Worked on scalable and efficient web applications
+
+### Machine Learning Intern
+**Covai Tech Solutions, Coimbatore**
+
+- Worked with Python, NumPy, Pandas, and Scikit-learn
+- Preprocessed and analyzed datasets
+- Built and evaluated machine learning models
+- Performed feature engineering and model validation
+
+---
+
+# 📜 Certifications
+
+- 🏆 NPTEL — Programming in Java
+- 🏆 NPTEL — Machine Learning
+- 🔐 Cisco Networking Academy — Introduction to Cyber Security
+- ☁️ Infosys — Java Foundation
+- ☁️ AI Ascend AWS
+
+---
+
+# 🔥 My Coding Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  🔥 <b>Maintaining the streak, one commit at a time.</b>
+</p>
+
+<p align="center">
+  💻 Code → 🧠 Learn → 🚀 Build → 🔥 Repeat
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -92,27 +188,13 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌱 Currently Learning
+# 🌱 Currently Exploring
 
 ```text
-💻 Programming
-🌐 Web Development
-🗄️ Databases
-🔧 Git & GitHub
-🚀 Software Development
+☕ Advanced Java & Spring Boot
+⚛️ React.js
+🤖 Machine Learning & AI
+🧠 Generative AI
+🔗 REST API Development
+🗄️ Database Design
+🚀 Full-Stack Application Development
