@@ -1,10 +1,10 @@
 <!-- ======================= HEADER ======================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bubblegum+Sans&size=40&duration=1&pause=100000&color=A020F0&center=true&vCenter=true&width=650&lines=%E2%9A%A1+S+W+E+T+H+A+%E2%9A%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bubblegum+Sans&size=50&duration=1&pause=100000&color=C77DFF&center=true&vCenter=true&width=650&lines=S+W+E+T+H+A+V" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=F72585&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Python+Developer;AI%2FML+Enthusiast;Building+Ideas+Into+Reality+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Python+Developer;AI%2FML+Enthusiast;Building+Ideas+Into+Reality+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
