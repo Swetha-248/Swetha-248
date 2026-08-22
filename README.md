@@ -1,8 +1,10 @@
 <!-- ======================= HEADER ======================= -->
-<h1 align="center">⚡ S W E T H A &nbsp; V ⚡</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bubblegum+Sans&size=40&duration=1&pause=100000&color=A020F0&center=true&vCenter=true&width=650&lines=%E2%9A%A1+S+W+E+T+H+A+%E2%9A%A1" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Python+Developer;AI%2FML+Enthusiast;Building+Ideas+Into+Reality+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=F72585&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Python+Developer;AI%2FML+Enthusiast;Building+Ideas+Into+Reality+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -31,30 +33,40 @@ Machine Learning**, while continuously exploring new technologies.
 - 🎯 Aspiring Software Developer
 
 ---
-
 ## 🛠️ Technical Skills
 
-<p align="center">
-  <b>💻 Programming Languages</b>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
-</p>
+<p align="center"><b>💻 Programming Languages</b></p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br><sub><b>Java</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br><sub><b>Python</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="48"/><br><sub><b>JavaScript</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48"/><br><sub><b>C</b></sub></td>
+  </tr>
+</table>
 
-<p align="center">
-  <b>🌐 Full-Stack Development</b>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,spring" />
-</p>
+<p align="center"><b>🌐 Full-Stack Development</b></p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br><sub><b>HTML</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br><sub><b>CSS</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br><sub><b>React</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br><sub><b>Node.js</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br><sub><b>Express</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br><sub><b>Spring</b></sub></td>
+  </tr>
+</table>
 
-<p align="center">
-  <b>🗄️ Databases</b>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+<p align="center"><b>🗄️ Databases</b></p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br><sub><b>MySQL</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br><sub><b>MongoDB</b></sub></td>
+  </tr>
+</table>
 
+<p align="center"><b>🤖 AI & Machine Learning</b></p>
 <p align="center">
-  <b>🤖 AI & Machine Learning</b>
-  <br><br>
   <code>Python</code>
   <code>NumPy</code>
   <code>Pandas</code>
@@ -62,11 +74,15 @@ Machine Learning**, while continuously exploring new technologies.
   <code>Google Gemini API</code>
 </p>
 
+<p align="center"><b>🔧 Tools & Technologies</b></p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br><sub><b>Git</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br><sub><b>GitHub</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br><sub><b>VS Code</b></sub></td>
+  </tr>
+</table>
 <p align="center">
-  <b>🔧 Tools & Technologies</b>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <br><br>
   <code>REST APIs</code>
   <code>JWT</code>
 </p>
@@ -178,12 +194,9 @@ academic performance, and at-risk student prediction.
 </p>
 
 ---
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="500" />
-</p>
-
+## 🐍 Contribution Graph 
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p> ---  
 ---
 
 # 📊 GitHub Statistics
