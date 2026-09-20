@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bubblegum+Sans&size=50&duration=1&pause=100000&color=C77DFF&center=true&vCenter=true&width=650&lines=S+W+E+T+H+A+V" />
+  <img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&size=50&duration=1&pause=100000&color=C48A9F&center=true&vCenter=true&width=650&lines=S+W+E+T+H+A+V" />
 </p>
 
 <p align="center">
