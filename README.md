@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Building+Real-World+Projects;Learning+%7C+Coding+%7C+Growing+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;Building+Real-World+Projects;Learning+%7C+Coding+%7C+Growing+%F0%9F%9A%80" />
 </p>
 
 ---
