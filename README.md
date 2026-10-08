@@ -51,9 +51,7 @@ Machine Learning**, while continuously exploring new technologies.
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br><sub><b>HTML</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br><sub><b>CSS</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br><sub><b>React</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br><sub><b>Node.js</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br><sub><b>Express</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br><sub><b>Spring</b></sub></td>
+    
   </tr>
 </table>
 
