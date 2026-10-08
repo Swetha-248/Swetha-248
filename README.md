@@ -41,7 +41,7 @@ Machine Learning**, while continuously exploring new technologies.
     <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br><sub><b>Java</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br><sub><b>Python</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="48"/><br><sub><b>JavaScript</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48"/><br><sub><b>C</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br><sub><b>C++</b></sub></td>
   </tr>
 </table>
 
@@ -63,14 +63,7 @@ Machine Learning**, while continuously exploring new technologies.
   </tr>
 </table>
 
-<p align="center"><b>🤖 AI & Machine Learning</b></p>
-<p align="center">
-  <code>Python</code>
-  <code>NumPy</code>
-  <code>Pandas</code>
-  <code>Scikit-learn</code>
-  <code>Google Gemini API</code>
-</p>
+
 
 <p align="center"><b>🔧 Tools & Technologies</b></p>
 <table align="center">
